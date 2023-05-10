@@ -1,0 +1,9 @@
+# Site settings
+title: README
+author:
+  name: your-name
+  email: your-email@domain.com
+description: "settings for website"
+
+# Build settings
+remote_theme: jekyll/minima
