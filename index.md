@@ -9,10 +9,19 @@ nav_order: 1
 ### 204 869 4935
 ### Profile
 
-Fourth year Computer Science student at University of Manitoba. Passionate Phone softwares and website programming (front end and back end). Developed several apps for iPhone and Androids, websites and some softwares for my own use.
+Bachelor of Computer Science at University of Manitoba.
 
 ## Personal Project
 
+
+*** Full Stack Store and Inventory Management Wesbtie in React, Node.js, MongoDB***
+- Hosted online for front end and back end can be tested on Netlify and Render at: https://velvety-arithmetic-24c3ba.netlify.app/
+- Create, modify and update Customer information for the store.
+- Process selling items to customers and email customers for the purchase receipt.
+- Loyalty Point program for customer to earn points from the purchase and redeem it for purcahses.
+- Add, update items to inventory to manage the store stock of items
+- Process the sale report to get data to understand the popular purchased products.
+  
 ***Student Life Organizer - written in Java***
 - Create schedule for classes on calendar.
 - Anticipate the final grade and plan grades to reach target mark.
